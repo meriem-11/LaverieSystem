@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YTBG9zMJe32bCVLUTEvTeffUYxM6rWMDpJtgEhYuZrM=",
+  "Source": "laundryServer",
+  "BasePath": "_content/laundryServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

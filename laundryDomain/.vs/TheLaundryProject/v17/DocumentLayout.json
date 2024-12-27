@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundrydomain\\domain\\interfaces\\imachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|solutionrelative:laundrydomain\\domain\\interfaces\\imachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\infrastructure\\configurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\infrastructure\\configurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\business\\interfaces\\icycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\business\\interfaces\\icycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\business\\interfaces\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\business\\interfaces\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\business\\interfaces\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\business\\interfaces\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\business\\interfaces\\iconfigurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\business\\interfaces\\iconfigurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundrydomain\\domain\\entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|solutionrelative:laundrydomain\\domain\\entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundrydomain\\domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|solutionrelative:laundrydomain\\domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundrydomain\\domain\\entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|solutionrelative:laundrydomain\\domain\\entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundrydomain\\domain\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|solutionrelative:laundrydomain\\domain\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundrydomain\\domain\\entities\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|solutionrelative:laundrydomain\\domain\\entities\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\presentation\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\presentation\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\presentation\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\presentation\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\laundryserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\laundryserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundryserver\\laundryserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D56C0AC-C380-4603-B945-B68186B44689}|laundryServer\\laundryServer.csproj|solutionrelative:laundryserver\\laundryserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|c:\\users\\trrr\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundrydomain\\laundrydomain\\laundryheart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}|laundryDomain\\laundryHeart.csproj|solutionrelative:laundrydomain\\laundryheart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMachine.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Interfaces\\IMachine.cs",
+              "RelativeDocumentMoniker": "laundryDomain\\Domain\\Interfaces\\IMachine.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Interfaces\\IMachine.cs",
+              "RelativeToolTip": "laundryDomain\\Domain\\Interfaces\\IMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:49:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "laundryServer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\appsettings.Development.json",
+              "RelativeToolTip": "laundryServer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T07:43:59.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "laundryServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "laundryServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T07:43:42.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Infrastructure\\ConfigurationDAO.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Infrastructure\\ConfigurationDAO.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Infrastructure\\ConfigurationDAO.cs",
+              "RelativeToolTip": "laundryServer\\Infrastructure\\ConfigurationDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:42:53.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MachineController.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Presentation\\Controllers\\MachineController.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Presentation\\Controllers\\MachineController.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Presentation\\Controllers\\MachineController.cs",
+              "RelativeToolTip": "laundryServer\\Presentation\\Controllers\\MachineController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:31:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfigurationController.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Presentation\\Controllers\\ConfigurationController.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Presentation\\Controllers\\ConfigurationController.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Presentation\\Controllers\\ConfigurationController.cs",
+              "RelativeToolTip": "laundryServer\\Presentation\\Controllers\\ConfigurationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:31:19.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Business\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\ConfigurationService.cs",
+              "RelativeToolTip": "laundryServer\\Business\\ConfigurationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:30:28.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMachineService.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\IMachineService.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Business\\Interfaces\\IMachineService.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\IMachineService.cs",
+              "RelativeToolTip": "laundryServer\\Business\\Interfaces\\IMachineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:29:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICycleService.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\ICycleService.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Business\\Interfaces\\ICycleService.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\ICycleService.cs",
+              "RelativeToolTip": "laundryServer\\Business\\Interfaces\\ICycleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:29:08.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\IConfigurationService.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Business\\Interfaces\\IConfigurationService.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\IConfigurationService.cs",
+              "RelativeToolTip": "laundryServer\\Business\\Interfaces\\IConfigurationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:28:13.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "laundryServer.csproj",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\laundryServer.csproj",
+              "RelativeDocumentMoniker": "laundryServer\\laundryServer.csproj",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\laundryServer.csproj",
+              "RelativeToolTip": "laundryServer\\laundryServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T06:59:05.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "laundryHeart.csproj",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\laundryHeart.csproj",
+              "RelativeDocumentMoniker": "laundryDomain\\laundryHeart.csproj",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\laundryHeart.csproj",
+              "RelativeToolTip": "laundryDomain\\laundryHeart.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T06:56:18.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "laundryServer.http",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\laundryServer.http",
+              "RelativeDocumentMoniker": "laundryServer\\laundryServer.http",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\laundryServer.http",
+              "RelativeToolTip": "laundryServer\\laundryServer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-26T21:03:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\appsettings.json",
+              "RelativeDocumentMoniker": "laundryServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\appsettings.json",
+              "RelativeToolTip": "laundryServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T20:30:31.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IConfigurationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\IConfigurationDAO.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Business\\Interfaces\\IConfigurationDAO.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Business\\Interfaces\\IConfigurationDAO.cs",
+              "RelativeToolTip": "laundryServer\\Business\\Interfaces\\IConfigurationDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:26:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Action.cs",
+              "RelativeDocumentMoniker": "laundryDomain\\Domain\\Entities\\Action.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Action.cs",
+              "RelativeToolTip": "laundryDomain\\Domain\\Entities\\Action.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:13:50.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cycle.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Cycle.cs",
+              "RelativeDocumentMoniker": "laundryDomain\\Domain\\Entities\\Cycle.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Cycle.cs",
+              "RelativeToolTip": "laundryDomain\\Domain\\Entities\\Cycle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:05:55.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Program.cs",
+              "RelativeDocumentMoniker": "laundryServer\\Program.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryServer\\Program.cs",
+              "RelativeToolTip": "laundryServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:50:32.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Machine.cs",
+              "RelativeDocumentMoniker": "laundryDomain\\Domain\\Entities\\Machine.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Machine.cs",
+              "RelativeToolTip": "laundryDomain\\Domain\\Entities\\Machine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:59:38.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Proprietaire.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Proprietaire.cs",
+              "RelativeDocumentMoniker": "laundryDomain\\Domain\\Entities\\Proprietaire.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Proprietaire.cs",
+              "RelativeToolTip": "laundryDomain\\Domain\\Entities\\Proprietaire.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:44:03.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Laverie.cs",
+              "DocumentMoniker": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Laverie.cs",
+              "RelativeDocumentMoniker": "laundryDomain\\Domain\\Entities\\Laverie.cs",
+              "ToolTip": "C:\\Users\\TRRR\\source\\repos\\wetransfer_landerysolution_2024-12-26_2152\\laundryDomain\\laundryDomain\\Domain\\Entities\\Laverie.cs",
+              "RelativeToolTip": "laundryDomain\\Domain\\Entities\\Laverie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:52:50.285Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

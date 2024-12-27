@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laundryHeart", "laundryDomain\laundryHeart.csproj", "{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laundryServer", "laundryServer\laundryServer.csproj", "{4D56C0AC-C380-4603-B945-B68186B44689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ED979C-A8FF-43B6-8E66-4ABF1F1669B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D56C0AC-C380-4603-B945-B68186B44689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D56C0AC-C380-4603-B945-B68186B44689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D56C0AC-C380-4603-B945-B68186B44689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D56C0AC-C380-4603-B945-B68186B44689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89799608-F62F-435B-8356-F58347C3AB11}
+	EndGlobalSection
+EndGlobal

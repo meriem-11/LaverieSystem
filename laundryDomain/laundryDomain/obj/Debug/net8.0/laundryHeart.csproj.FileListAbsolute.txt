@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\bin\Debug\net8.0\laundryHeart.deps.json
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\bin\Debug\net8.0\laundryHeart.dll
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\bin\Debug\net8.0\laundryHeart.pdb
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.dll
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\refint\laundryHeart.dll
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.pdb
+C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\ref\laundryHeart.dll
