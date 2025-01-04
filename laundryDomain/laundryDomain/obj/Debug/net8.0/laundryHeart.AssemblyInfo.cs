@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laundryHeart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9564fd876e543aaf6431d726bc6ef6b363103f45")]
 [assembly: System.Reflection.AssemblyProductAttribute("laundryHeart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laundryHeart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

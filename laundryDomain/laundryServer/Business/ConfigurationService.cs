@@ -1,21 +1,22 @@
 ﻿using laundryHeart.Domain.Entities;
 using laundryServer.Business.Interfaces;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace laundryServer.Business
 {
     public class ConfigurationService : IConfigurationService
     {
-        private readonly IConfigurationDAO _configuration;
+        private readonly IConfigurationDAO _configurationDAO;
 
-        public ConfigurationService(IConfigurationDAO configuration)
+        public ConfigurationService(IConfigurationDAO configurationDAO)
         {
-            _configuration = configuration;
+            _configurationDAO = configurationDAO;
         }
 
-        public async Task<List<Proprietaire>> GetConfigurationAsync()
+        public Dictionary<string, object> GetConfiguration()
         {
-
-            return _configuration.Configuration;
+            return _configurationDAO.GetConfiguration();
         }
     }
 }

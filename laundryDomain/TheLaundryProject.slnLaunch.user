@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "laundryServer\\laundryServer.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "laundryDomain\\laundryHeart.csproj",
+        "Action": "Start",
+        "DebugTarget": "laundryHeart"
+      },
+      {
+        "Path": "LaundrySimulator\\LaundrySimulator.csproj",
+        "Action": "Start",
+        "DebugTarget": "LaundrySimulator"
+      }
+    ]
+  }
+]

@@ -1,8 +1,10 @@
-﻿using laundryServer.Business.Interfaces;
-using Microsoft.AspNetCore.Http;
+﻿using laundryHeart.Domain.Entities;
+using laundryServer.Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace laundryServer.Presentation.Controllers
+
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -10,24 +12,37 @@ namespace laundryServer.Presentation.Controllers
     {
         private readonly IMachineService _machineService;
 
+        // Injection de dépendance du service
         public MachineController(IMachineService machineService)
         {
             _machineService = machineService;
         }
 
+        // GET: api/Machine
         [HttpGet]
-        public IActionResult GetMachines()
+        public ActionResult<List<Machine>> GetMachines()
         {
-            var machines = _machineService.GetMachines();
-            return Ok(machines);
+            return Ok(_machineService.GetMachines());
         }
 
+        // GET: api/Machine/5
         [HttpGet("{id}")]
-        public IActionResult GetMachineById(int id)
+        public ActionResult<Machine> GetMachineById(int id)
         {
             var machine = _machineService.GetMachineById(id);
-            if (machine == null) return NotFound();
+            if (machine == null)
+            {
+                return NotFound();
+            }
             return Ok(machine);
+        }
+
+        // PUT: api/Machine/5/status
+        [HttpPut("{id}/status")]
+        public IActionResult UpdateMachineStatus(int id, [FromBody] bool isAvailable)
+        {
+            _machineService.UpdateMachineStatus(id, isAvailable);
+            return NoContent();
         }
     }
 }

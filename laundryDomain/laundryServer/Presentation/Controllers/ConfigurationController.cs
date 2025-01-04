@@ -15,20 +15,18 @@ namespace laundryServer.Presentation.Controllers
             _configurationService = configurationService;
         }
 
-        [HttpGet("configuration")]
-        public async Task<IActionResult> GetConfiguration()
+        [HttpGet("GetConfiguration")]
+        public IActionResult GetConfiguration()
         {
-            // Appel au service pour obtenir les configurations
-            var configuration = await _configurationService.GetConfigurationAsync();
-
-            // Vérification si une réponse vide est renvoyée
-
-
-            return Ok(configuration);
-
-            // Utilisation d'un logger pour enregistrer l'exception
-            // _logger.LogError(ex, "Erreur lors de la récupération de la configuration.");
-
+            try
+            {
+                var config = _configurationService.GetConfiguration();
+                return Ok(config);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "Erreur lors de la récupération des données.", details = ex.Message });
+            }
         }
     }
 }

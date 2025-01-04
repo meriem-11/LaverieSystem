@@ -9,8 +9,11 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 
 // Register the repository
 builder.Services.AddScoped<IConfigurationDAO, ConfigurationDAO>();
+builder.Services.AddScoped<IMachineDAO>(provider => new MachineDAO(connectionString));
+
 // Enregistrer d'autres services (ex. DAO, services business)
 builder.Services.AddScoped<IConfigurationService, ConfigurationService>();
+builder.Services.AddScoped<IMachineService, MachineService>();
 
 // Add services to the container.
 

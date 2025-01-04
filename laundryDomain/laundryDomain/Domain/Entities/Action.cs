@@ -9,8 +9,7 @@ namespace laundryHeart.Domain.Entities
     public class Action
     {
         public int Id { get; set; }
-        public string date { get; set; }
-        public Cycle Cycle { get; set; }
+        public DateTime Date { get; set; }
 
     }
 }

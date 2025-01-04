@@ -9,3 +9,15 @@ C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryH
 C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\refint\laundryHeart.dll
 C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.pdb
 C:\Users\ASUS\source\repos\laundryDomain\laundryDomain\obj\Debug\net8.0\ref\laundryHeart.dll
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\bin\Debug\net8.0\laundryHeart.deps.json
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\bin\Debug\net8.0\laundryHeart.dll
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\bin\Debug\net8.0\laundryHeart.pdb
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.AssemblyInfoInputs.cache
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.AssemblyInfo.cs
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.csproj.CoreCompileInputs.cache
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.sourcelink.json
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.dll
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\refint\laundryHeart.dll
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\laundryHeart.pdb
+C:\Users\TRRR\source\repos\wetransfer_landerysolution_2024-12-26_2152\laundryDomain\laundryDomain\obj\Debug\net8.0\ref\laundryHeart.dll

@@ -11,7 +11,7 @@ namespace laundryHeart.Domain.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public List<Machine> Machines { get; set; } = new List<Machine>();
+        public List<Machine> Machines { get; set; }
         public Proprietaire Proprietaire { get; set; }
     }
 }

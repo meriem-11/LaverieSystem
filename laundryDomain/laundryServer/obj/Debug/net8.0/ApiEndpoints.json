@@ -1,0 +1,79 @@
+[
+  {
+    "ContainingType": "laundryServer.Presentation.Controllers.ConfigurationController",
+    "Method": "GetConfiguration",
+    "RelativePath": "api/Configuration/GetConfiguration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "laundryServer.Presentation.Controllers.MachineController",
+    "Method": "GetMachines",
+    "RelativePath": "api/Machine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[laundryHeart.Domain.Entities.Machine, laundryHeart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "laundryServer.Presentation.Controllers.MachineController",
+    "Method": "GetMachineById",
+    "RelativePath": "api/Machine/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "laundryHeart.Domain.Entities.Machine",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "laundryServer.Presentation.Controllers.MachineController",
+    "Method": "UpdateMachineStatus",
+    "RelativePath": "api/Machine/{id}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "isAvailable",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

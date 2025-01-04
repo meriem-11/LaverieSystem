@@ -4,6 +4,7 @@ namespace laundryServer.Business.Interfaces
 {
     public interface IConfigurationDAO
     {
-        public List<Proprietaire> Configuration { get; }
+        Dictionary<string, object> GetConfiguration();
+
     }
 }

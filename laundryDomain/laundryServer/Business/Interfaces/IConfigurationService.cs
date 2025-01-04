@@ -4,7 +4,7 @@ namespace laundryServer.Business.Interfaces
 {
     public interface IConfigurationService
     {
-        public Task<List<Proprietaire>> GetConfigurationAsync();
+        Dictionary<string, object> GetConfiguration();
 
     }
 }
